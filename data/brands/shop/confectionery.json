@@ -374,6 +374,21 @@
       }
     },
     {
+      "displayName": "Kuzina",
+      "id": "kuzina-e499d2",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "shop": "confectionery",
+        "brand": "Kuzina",
+        "brand:en": "Kuzina",
+        "brand:ru": "Кузина",
+        "brand:wikidata": "Q48947300",
+        "name": "Kuzina",
+        "name:en": "Kuzina",
+        "name:ru": "Кузина"
+      }
+    },
+    {
       "displayName": "おかしのまちおか",
       "id": "machioka-59ea1b",
       "locationSet": {"include": ["jp"]},
